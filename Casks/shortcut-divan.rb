@@ -1,6 +1,6 @@
 cask "shortcut-divan" do
-  version "1.1.1"
-  sha256 "138a5915679d8c42ab7e758e0ff1d624bb5f1214aa0184e9892cd387f77c5222"
+  version "1.1.2"
+  sha256 "90fb3495475ec0564e6e53005ff35745d2a47b2b4b9aeedf9d91e7dbcc7ed1ea"
 
   url "https://github.com/codingwithsaeed/shortcut-divan/releases/download/v#{version}/Shortcut-Divan-#{version}.dmg"
   name "Shortcut Divan"
